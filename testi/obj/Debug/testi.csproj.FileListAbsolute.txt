@@ -1,1 +1,2 @@
 C:\Users\einari.pekurinen\Desktop\Eke-tht\vanha\testi\testi\bin\Debug\testi.exe.config
+C:\Users\einari.pekurinen\Documents\GitHub\WPFtry\testi\bin\Debug\testi.exe.config
